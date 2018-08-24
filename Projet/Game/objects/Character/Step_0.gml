@@ -33,3 +33,10 @@ if (place_meeting(x, y+ySpeed, Wall)){
 }
 y += ySpeed;
 
+if (y > 900){
+	if (TriggerText2.text2Created){
+		x = Text2.x;
+		y = Text2.y;
+	}
+}
+

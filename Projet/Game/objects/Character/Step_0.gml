@@ -32,3 +32,4 @@ if (place_meeting(x, y+ySpeed, Wall)){
 	ySpeed = 0;	
 }
 y += ySpeed;
+

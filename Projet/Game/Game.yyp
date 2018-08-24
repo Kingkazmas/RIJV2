@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "11013470-9b84-4385-aef1-0fd6b4017089",
+            "Value": {
+                "id": "eb9856f2-5e92-43b6-95c5-566555988bce",
+                "resourcePath": "objects\\GroundCornerRight\\GroundCornerRight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ade1969-03ef-4559-9d5e-25a68ac25280",
             "Value": {
                 "id": "eee2ba3e-7207-4c9d-8a85-d9648d2f00c2",

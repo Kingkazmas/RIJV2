@@ -2,7 +2,7 @@
     "id": "2cdfe8bf-3d52-4d77-9b31-f1c948278103",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite7",
+    "name": "Sprite_College",
     "For3D": false,
     "HTile": false,
     "VTile": false,

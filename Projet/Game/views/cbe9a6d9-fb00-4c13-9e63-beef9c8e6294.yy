@@ -1,11 +1,11 @@
 {
-    "id": "b320daea-0078-46d3-88d9-adba728b8d2d",
+    "id": "cbe9a6d9-fb00-4c13-9e63-beef9c8e6294",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "b320daea-0078-46d3-88d9-adba728b8d2d",
+    "name": "cbe9a6d9-fb00-4c13-9e63-beef9c8e6294",
     "children": [
-        "9ddadec7-43ff-4a55-9656-f4104f58bd77",
-        "c375e74f-d1a7-4a7e-a092-34a42b44d85d"
+        "c251cf19-2184-47d1-a51c-0550ffb3c35a",
+        "405a51e4-bb2c-4530-bb19-99eda06ea8c0"
     ],
     "filterType": "GMObject",
     "folderName": "objects",

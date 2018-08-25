@@ -1,4 +1,4 @@
-if (textAlpha < 3){
+if (textAlpha < 1){
 	textAlpha += 0.03;
 	draw_set_alpha(textAlpha);
 }else{

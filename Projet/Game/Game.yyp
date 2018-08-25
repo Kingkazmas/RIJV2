@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0d532790-9d2a-40c2-a62b-5f6de9a22b81",
+            "Value": {
+                "id": "538fadc6-d00a-46ce-9df3-1ba3e43de8db",
+                "resourcePath": "fonts\\fontTextfin\\fontTextfin.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "11013470-9b84-4385-aef1-0fd6b4017089",
             "Value": {
                 "id": "eb9856f2-5e92-43b6-95c5-566555988bce",

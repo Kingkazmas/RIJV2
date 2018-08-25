@@ -40,3 +40,20 @@ if (y > 900){
 	}
 }
 
+
+// Animation
+if (!place_meeting(x,y+1,Wall)){
+	sprite_index = Sprite_CharacterJump;
+	image_speed = 0;
+}else{
+	if (xSpeed == 0){
+		sprite_index = Sprite_CharacterIdle;
+	}else{
+		image_speed = 1;
+		sprite_index = Sprite_CharacterRun;
+	}
+}
+
+if (xSpeed != 0){
+	image_xscale = sign(xSpeed);
+}

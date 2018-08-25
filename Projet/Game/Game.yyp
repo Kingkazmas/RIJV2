@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "814aa69b-c176-485d-a3d3-ac815dbc3619",
+            "Value": {
+                "id": "7a6beb55-a72f-4878-bb61-3dee027e7cbc",
+                "resourcePath": "sprites\\Sprite_CharacterIdle\\Sprite_CharacterIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8468f25a-26b2-4f39-a380-07f8797fcdb5",
             "Value": {
                 "id": "0f957c0e-760e-4323-b8f2-7fd05ec273e5",
@@ -346,7 +354,7 @@
             "Key": "a929d390-ebe1-4587-8e9e-3f832bba1ade",
             "Value": {
                 "id": "fd25fbc3-d558-4eef-8499-c6191ea2a382",
-                "resourcePath": "sprites\\Sprite_Character\\Sprite_Character.yy",
+                "resourcePath": "sprites\\Sprite_CharacterRun\\Sprite_CharacterRun.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -460,6 +468,14 @@
                 "id": "c7664cd2-558b-48c8-8587-792d540d2f6b",
                 "resourcePath": "objects\\VisualSolVide\\VisualSolVide.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d84f5154-1380-4f95-8cf3-c99fec4cb0e8",
+            "Value": {
+                "id": "c148f040-8bee-4790-b426-7ed205f8b67b",
+                "resourcePath": "sprites\\Sprite_CharacterJump\\Sprite_CharacterJump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

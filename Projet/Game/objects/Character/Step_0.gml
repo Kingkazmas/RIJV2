@@ -34,7 +34,19 @@ if (place_meeting(x, y+ySpeed, Wall)){
 y += ySpeed;
 
 if (y > 900){
-	if (TriggerText3.text3Created){
+	if (TriggerText6.text6Created){
+		x=Text6.x;
+		y=Text6.y;
+	}
+	else if (TriggerText5.text5Created){
+		x=TriggerText5.x;
+		y=TriggerText5.y;
+	}
+	else if (TriggerText4.text4Created){
+		x=TriggerText4.x;
+		y=TriggerText4.y;
+	}
+	else if (TriggerText3.text3Created){
 		x=Text3.x;
 		y=Text3.y;
 	}

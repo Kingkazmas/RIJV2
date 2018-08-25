@@ -1,8 +1,8 @@
 {
-    "id": "405a51e4-bb2c-4530-bb19-99eda06ea8c0",
+    "id": "6d73aec0-6485-434b-b3b8-3cd8042b3d62",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Wall",
+    "name": "Moqueries3",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "baee35a9-5646-4054-aa5a-e740eaf12a00",
+    "spriteId": "e8ad3c44-bb00-433a-9ec5-92cc3d5d306d",
     "visible": true
 }

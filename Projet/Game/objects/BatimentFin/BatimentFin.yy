@@ -1,8 +1,8 @@
 {
-    "id": "405a51e4-bb2c-4530-bb19-99eda06ea8c0",
+    "id": "8f4c1156-ea11-40e4-aa6d-b9513c15cdb1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Wall",
+    "name": "BatimentFin",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "baee35a9-5646-4054-aa5a-e740eaf12a00",
+    "spriteId": "802d6d77-cffa-4a6e-9860-a2088058f3ab",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "405a51e4-bb2c-4530-bb19-99eda06ea8c0",
+    "id": "253857f8-00bf-46fa-a160-b4095c471fa3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Wall",
+    "name": "Flamme",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "baee35a9-5646-4054-aa5a-e740eaf12a00",
+    "spriteId": "e409319d-dc2a-44b6-b933-b4e870e61000",
     "visible": true
 }

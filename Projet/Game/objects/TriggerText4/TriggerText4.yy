@@ -1,10 +1,19 @@
 {
-    "id": "405a51e4-bb2c-4530-bb19-99eda06ea8c0",
+    "id": "5cf7a0ec-ae5f-4f85-b363-ff044fb848e7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Wall",
+    "name": "TriggerText4",
     "eventList": [
-        
+        {
+            "id": "f6ee2e78-121e-4d10-9d08-17c405f1a122",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "5cf7a0ec-ae5f-4f85-b363-ff044fb848e7"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "baee35a9-5646-4054-aa5a-e740eaf12a00",
-    "visible": true
+    "spriteId": "7b588f8c-11d1-4624-b21b-98ba12ed22d1",
+    "visible": false
 }
